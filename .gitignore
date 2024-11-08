@@ -1,0 +1,34 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build and Output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+node_modules/
+
+# Temporary Files
+*.log
+*.tmp
+*~
+
+# If you're using PDF generation
+*.pdf
+
+# Python if you're using any scripts
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+ENV/
